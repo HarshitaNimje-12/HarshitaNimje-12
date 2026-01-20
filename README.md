@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Deepak Nimje</h1>
 <h3 align="center">✨ Passionated in Artificial Intelligence From India ✨</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitanimje-12&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-</p>
+
 
 ---
 
